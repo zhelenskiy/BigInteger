@@ -1,0 +1,1 @@
+internal actual fun sumLongsExact(a: Long, b: Long): Long = Math.addExact(a, b)

@@ -1,0 +1,1 @@
+internal actual fun sumLongsExact(a: Long, b: Long): Long = naiveSumLongsExact(a, b)
