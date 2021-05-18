@@ -1,5 +1,6 @@
 # BigInteger
 
+This is not a real BigInteger but rather a proof of concept of idea to extract Long-ranged BigInts into special LongBigInt type to significally improve the speed of evaluation in this case.
 
 | Adding small numbers via | 1 | 2 | 3 | 4 | 5 |
 | :- | - | - | - | - | - |
